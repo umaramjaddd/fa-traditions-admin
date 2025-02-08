@@ -8,8 +8,16 @@ export default {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        primary: "#9B5DE5",   // Rich Purple
+        secondary: "#F15BB5", // Vibrant Pink
+        softPurple: "#D8B4F8", // Light Lavender
+        blush: "#FDCEDF",     // Soft Blush Pink
+        cream: "#FFF5E1",     // Warm Cream
+        deepRose: "#E63946",  // Elegant Deep Rose
+        gold: "#FFD700",      // Luxury Gold
+        darkGray: "#2A2A2A",  // Stylish Dark Gray
+        softGray: "#F3F3F3",  // Gentle Soft Gray
+
       },
     },
   },
